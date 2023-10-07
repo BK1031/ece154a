@@ -173,8 +173,8 @@ endmodule
 
 ## Images of Waveforms
 
-![Waveform 1](waveform1.png)
-![Waveform 2](waveform2.png)
+![Waveform 1](https://github.com/BK1031/ece154a/blob/main/lab1/waveform1.png?raw=true)
+![Waveform 2](https://github.com/BK1031/ece154a/blob/main/lab1/waveform2.png?raw=true)
 
 ## Lab Feedback
 I think the part that took the longest was figuring out how to create the testbench file since I don't believe we ever used a test vector file before. Maybe providing some examples on this would be helpful for the future.
